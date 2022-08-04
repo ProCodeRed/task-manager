@@ -3,12 +3,12 @@
     {
       "text": "Test 1",
       "day": "Tuesday",
-      "reminder": true,
+      "reminder": false,
       "id": 1
     },
     {
       "text": "Test 2",
-      "day": "Monday",
+      "day": "Sunday",
       "reminder": false,
       "id": 2
     },

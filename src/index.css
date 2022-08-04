@@ -106,7 +106,17 @@ body {
   height: 20px;
 }
 
-footer {
+.footer {
   margin-top: 30px;
   text-align: center;
+}
+
+
+.task_details_wrapper{
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid green;
 }
